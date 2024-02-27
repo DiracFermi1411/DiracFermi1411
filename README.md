@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Deployment of object detection models.**
 
-- 💬 Ask me about **Robotics, Books and Football.**
+- 💬 Ask me about **Robotics, Books, Football and Chess.**
 
 - 📫 How to reach me **bhurewar@seas.upenn.edu**
-
-- ⚡ Fun fact **I can time travel in my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
