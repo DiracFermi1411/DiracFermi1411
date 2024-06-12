@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Bhurewar.</h1>
 <h3 align="center">I'm passionate about robotics, computer vision and Machine Learning.</h3>
 
-- 🔭 I’m currently working on YOLO-stockfish chess engine **YOLO-stockfish chess engine**
+- 🔭 I’m currently working on **YOLO-stockfish chess engine**
 
 - 🌱 I’m currently learning **Deployment of object detection models.**
 
