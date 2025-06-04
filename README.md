@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Dheeraj Bhurewar, welcome to my profile! </h1>
-<h3 align="center">I'm passionate about robotics, computer vision and Machine Learning.</h3>
+<h3 align="center">I'm passionate about Robotics, Computer vision, and Machine Learning.</h3>
 
 - 🔭 I’m currently working on **Object Extraction in 3D**
 
 - 🌱 I’m currently learning **How to scale training data for Manipulator Arms**
 
-- 💬 Ask me about **Robotics, Books, Football and Chess.**
+- 💬 Would love to have a conversation about **Robotics, Books, Meditation, Football, and Chess.** or anything else that you are passionate about! 
 
 - 📫 How to reach me **bhurewar@seas.upenn.edu**
 
